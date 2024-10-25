@@ -1,9 +1,11 @@
 # MultiscaleTextureSeparation
  Multiscale Texture Separation algorithm
 
- This package performs the Multiscale Texture Separation algorithm
-% based on the cartoon + textures decomposition and adapted Fourier
-% filtering (Littlewood-Paley or Curvelets).
+This package performs the Multiscale Texture Separation algorithm
+based on the cartoon + textures decomposition and adapted Fourier
+filtering (Littlewood-Paley or Curvelets) as described in 
+J.Gilles, "Multiscale Texture Separation", Multiscale, Modeling and Simulation: A 
+SIAM Interdisciplinary Journal, Vol.10, No.4, 1409--1427, Dec. 2012.
 
 The main function performing the decomposition is "Multiscale_Texture_Separation.m".
 
